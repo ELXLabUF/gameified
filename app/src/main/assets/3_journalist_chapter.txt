@@ -1,0 +1,7 @@
+Completed(set this to false initially): false
+Theme: Journalist
+Name: Level 3
+Prompt: <p>Ready!?</p>
+PromptSecondary: Record stories from your daily life that you think are related to the oxygen-carbon dioxide cycle.
+Unit: Test Unit
+WithRecording: true
